@@ -15,7 +15,7 @@ public class Firstclass {
     System.out.println("div="+div);
     System.out.println("mod="+mod);
     System.out.println(a--);//post decrement
-    System.out.println(a);
+    System.out.println(a); //printing current value
     System.out.println(--a);//pre decrement
     System.out.println(a);
     System.out.println(a++);//post increment
